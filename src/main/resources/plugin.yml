@@ -1,0 +1,7 @@
+name: LuckySpawn
+version: '${version}'
+main: dev.luckynetwork.cyclize.luckyspawn.LuckySpawn
+api-version: 1.18
+prefix: LuckySpawn
+authors: [ Cyclize ]
+description: Simple plugin to teleport players to a spawn location on join
